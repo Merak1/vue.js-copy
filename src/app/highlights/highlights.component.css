@@ -1,0 +1,16 @@
+.center{
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+.point h3{
+    color: #41B883;
+    font-size: 1.5em;
+    font-weight: 400;
+    margin: 0;
+    padding: 0.5em 0;
+}
+.point p {
+    color: #7f8c8d;
+}

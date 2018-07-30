@@ -1,0 +1,56 @@
+.inner{
+    text-align: center;
+}
+#hero{
+    padding: 40px 40px 30px;
+}
+#hero .inner{
+    max-width: 1260px;
+}
+
+#hero h1 {
+    font-weight: 300;
+    margin: 0;
+    font-size: 3.2em;
+}
+#hero .button {
+    box-sizing: border-box;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    min-width: 8em;
+    text-align: center;
+}
+.left img {
+    width: 215px;
+    height: 215px;
+    float: right;
+    margin-right: 60;
+}
+
+.green{
+    background-color: #41B883; 
+    padding: 5px 7px ;
+    color: #ffffff;
+}
+.grenny{
+    border:solid 2px #41B883; 
+    padding: 5px 2px ;
+    
+    color: #41B883;
+}
+.github{
+    background-color: rgb(221, 221, 221); 
+    padding: 5px 2px ;
+    color: #ffffff;
+}
+.spespo{
+    text-align: center;
+    padding-bottom: 30px
+}
+ .spespo h3{
+
+    font-size: 1.17em;
+ }
+.spespo img{
+    width:160px;
+}

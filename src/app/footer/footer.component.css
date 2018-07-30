@@ -1,0 +1,11 @@
+.foot{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    background-color: #727F80;
+}
+.social-icon svg {
+    width: 18px;
+    height: 18px;
+    margin: 0 5px;
+  }

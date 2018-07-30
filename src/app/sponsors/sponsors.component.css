@@ -1,0 +1,34 @@
+.sponsor{
+    background-color: #F6F6F6   ;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 35px;
+}
+.sponsor h3{
+    color: #999;
+    margin: 0 0 10px;
+    display: block;
+    font-size: 1.17em;
+}
+.images a {
+    display: inline;
+    vertical-align: middle;
+    padding-right: 40px;
+    padding-bottom: 40px;
+
+}
+.images{
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.white{
+    border:solid 2px #41B883; 
+    padding: 7px ;
+    color: #41B883;
+    font-size: 0.9em;
+    vertical-align: middle;
+}
+.small{
+    vertical-align: middle;
+    font-size: 0.6em !important;
+}

@@ -1,0 +1,32 @@
+.search-querry-nav {
+    outline: none;
+    height: 30px;
+    line-height: 30px;
+    box-sizing: border-box;
+    padding: 0 15px 0 30px;
+    border: 1px solid #e3e3e3;
+    border-radius: 15px;
+    background: #fff url(https://vuejs.org/images/search.png) 8px 5px no-repeat;
+    background-size: 20px;
+}
+.logo-span{
+    font-family: "Dosis", "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+    padding-right: 130px;
+    padding-left: 0px;
+}
+.arrow {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: -1px;
+    margin-left: 6px;
+    margin-right: -14px;
+    width: 0;
+    height: 0;
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    border-top: 5px solid #ccc;
+}
+h1{
+    -webkit-font-smoothing: antialiased;
+}
+    
